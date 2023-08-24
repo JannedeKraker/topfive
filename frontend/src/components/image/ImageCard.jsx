@@ -1,6 +1,6 @@
 export default function ImageCard({ imageSrc, title, text }) {
   return (
-    <div className="max-w-md mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
+    <div className="max-w-md mx-auto bg-white shadow-lg rounded-lg overflow-hidden mb-4">
       <h2 className="text-xl font-semibold text-gray-800 text-center">
         {title}
       </h2>
