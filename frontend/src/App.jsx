@@ -6,9 +6,7 @@ export default function App() {
     <div>
       <Header
         title="Top five largest seaturtles"
-        buttonLeft="Home"
-        buttonMiddle="About me"
-        buttonRigth="Contact"
+        subTitle="*nothing on this site rests on well-researched truths."
       />
       <ImageCard
         imageSrc="./images/TurtleOne.jpg"
